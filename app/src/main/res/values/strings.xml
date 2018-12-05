@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">photo</string>
+    <string name="no_photo">相册暂无照片</string>
+</resources>
